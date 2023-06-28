@@ -10,7 +10,7 @@ I changed the format from Wide to Long so that I was able to have each value cor
 
 I got rid of the image_url tab as it was unncessary
 
-I imported a Date set to make better analysis with the existing dates that where there and to have wuarter and yearly values in my visualization
+I imported a Date set to make better analysis with the existing dates that where there and to have quarter and yearly values in my visualization
 
 After that the Data was clean and usable, so I began creating my presentation
 
