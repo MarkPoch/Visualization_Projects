@@ -1,0 +1,14 @@
+--Cold Wallet Crypto Data Breakdown
+
+--There was 10 sheets of data to analyze
+
+--First I examined the data provided, and realized I did not need the hash_tax coloumn, as it has no relevant data
+
+--I then formated the date coloumn from spaced out data, to Date Format in Google Sheets
+
+--I Then imported every sheet into Power BI
+
+--I realized every sheet had identical coloumns, and made a master table to combine all the sheets into one, to make better visuals in Power BI
+
+--Began creating my visuals and combining relevant data together to present the data in an appealing and understanding way
+
