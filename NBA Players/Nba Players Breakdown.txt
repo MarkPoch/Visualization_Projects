@@ -1,0 +1,9 @@
+--I began by finding this Dataset on Kaggle (https://www.kaggle.com/datasets/justinas/nba-players-data)
+
+--I found the data to be very interesting and clean, so I downloaded it & imported it to Power BI
+
+--Most coloumns where useful, so I left the data set as is, and began to filter through the data through visuals
+
+--I changed certain values to have less decimal spots, as so many where not needed for the visuals, and allowed my data to be unbiased
+
+--From then on I began breaking down ideas to compare values and allow them to be shown
