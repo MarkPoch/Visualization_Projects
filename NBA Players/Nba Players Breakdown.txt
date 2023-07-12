@@ -7,3 +7,5 @@
 --I changed certain values to have less decimal spots, as so many where not needed for the visuals, and allowed my data to be unbiased
 
 --From then on I began breaking down ideas to compare values and allow them to be shown
+
+--Noticed too much data was being deisplayed, so I applied a few filters to the visuals to allow it to limit the amount of dat shown in each visual, and have it organized better
